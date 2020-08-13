@@ -105,8 +105,9 @@ font-weight: 500;
 
 @media  (min-width:0px)and (max-width:768px) { 
 
- main, aside, footer{
-    margin:0% 0%;
+ main,  footer{
+    margin-right: 0%;
+    margin-left:0%;
     
   }
   
@@ -125,3 +126,5 @@ header .logo{
 }
 
  } /*mobile*/
+
+ /* subir a github!!!  segunda version*/
